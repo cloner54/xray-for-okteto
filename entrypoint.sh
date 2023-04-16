@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 # 定义 UUID 及伪装路径、哪吒面板参数，请自行修改. (注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID='0262ab80-d987-11ed-8388-1239d0255272'
+UUID='2b6fc9dd-c104-405e-925a-bca89dd35bc5'
 VMESS_WSPATH='/vmess'
-VLESS_WSPATH='/vlessme'
+VLESS_WSPATH='/vless'
 TROJAN_WSPATH='/trojan'
 SS_WSPATH='/shadowsocks'
 NEZHA_SERVER=''
